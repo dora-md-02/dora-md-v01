@@ -2,7 +2,7 @@
 
 > **`Updated To` Version 2.5.1...**
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a href="https://ibb.co/5WH5cTkC"><img src="https://i.ibb.co/6RC4sY8G/IMG-20250228-190559.webp" alt="IMG-20250228-190559" border="0"></a>
 
 <p align="center"> 
   <p align="center">
