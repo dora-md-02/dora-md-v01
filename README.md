@@ -8,12 +8,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=25&pause=1000&background=FF000000&width=435&lines=THIS+IS+DORA+MD+𝗩2 ⚔+;DORA-+MD-+𝗩2 🎉;CREATED+𝗕Y+DORA-KING ✔️" alt="Typing SVG" /></a>
   </p>
 
+<img align="center" height="auto"
 <a href="https://ibb.co/5WH5cTkC"><img src="https://i.ibb.co/6RC4sY8G/IMG-20250228-190559.webp" alt="IMG-20250228-190559" border="0"></a>
 
-<img align="center" height="auto"
-src="https://files.catbox.moe/gld2vo.jpg?"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▇+▇+▇+▇+▇+▇+▇)](https://git.iog)
 <br>
 <p align="center"
   <a href="https://github.com/kingmalvn/DORA-MD">
