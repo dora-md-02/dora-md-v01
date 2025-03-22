@@ -3,7 +3,7 @@
   "description": "Javascript WhatsApp bot made by ☠️ ᴅᴏʀᴀ ᴍᴅ ☠️",
   "logo": "https://files.catbox.moe/gld2vo.jpg",
   "keywords": ["DORA MD"],
-  "success_url": "/",
+  "success_url": ".",
 
     "stack": "container",
   "env": {
